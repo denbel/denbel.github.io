@@ -1,0 +1,73 @@
+
+<html lang="en">
+		<head>
+			<meta charset="utf-8">
+    			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+						
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+			
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/~hm0124/css/main.css">
+			
+			<title>Denis Belomestny</title>
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/~hm0124/">Home</a></li>
+				<li><a href="/~hm0124/Publications">Publications</a></li>
+	        		<li><a href="/~hm0124/teaching">Teaching</a></li>
+              			<li><a href="/~hm0124/Funding">Third party funding</a></li>
+				<li><a href="/~hm0124/contact">Contact</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			
+
+
+<h2>Databases</h2>
+
+<ul>
+<li>
+<a href="https://arxiv.org/search/?query=Belomestny%2C+D&searchtype=author&abstracts=show&order=-announced_date_first&size=50">Arxiv</a>
+</li>
+<li>
+<a href="https://publons.com/researcher/2913073/prof-dr-denis-belomestny/">Publons</a>
+</li>
+
+<li>
+<a href="https://scholar.google.de/citations?user=WFjIBlcAAAAJ&hl=en">Google Scholar</a>
+</li>
+<li>
+<a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/685626">Mathscinet </a>
+</li>
+<li>
+<a href="https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=15069577900&origin=inward">Scopus</a>
+</li> 
+<li>
+<a href="https://www.uni-due.de/person/?tab=Publikationen&id=52758&vcard=0">University Online Library</a>
+</li> 
+
+</ul>
+
+
+
+<h2>Publications</h2>
+<script src="https://bibbase.org/show?bib=https://dl.dropboxusercontent.com/s/3bl7mcmm3sivbhc/mathscinet.bib&jsonp=1&authorFirst=1"></script> 
+
+</div>
+
+			
+			</div><!-- /.container -->
+			
+			<br>
+			
+			<footer>
+				
+			<ul>
+        			<li><a href="mailto:denis.belomestny@uni-due.de">email</a></li>
+			</ul>
+			</footer>
+		</body>
+	</html>

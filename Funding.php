@@ -1,0 +1,65 @@
+
+<html lang="en">
+		<head>
+			<meta charset="utf-8">
+    			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+						
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+			
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/~hm0124/css/main.css">
+			
+			<title>Denis Belomestny</title>
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/~hm0124/">Home</a></li>
+				<li><a href="/~hm0124/Publications">Publications</a></li>
+	        		<li><a href="/~hm0124/teaching">Teaching</a></li>
+              			<li><a href="/~hm0124/Funding">Third party funding</a></li>
+				<li><a href="/~hm0124/contact">Contact</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			
+
+
+<h2>  Current projects  funded by <a href="http://gepris.dfg.de/gepris/person/34568908"> German Science Foundation  </a> </h2>
+
+<ul>
+<li>
+03/2022-03/2025, Recursive und sparse approximations for Reinforcement Learning with Applications, Research grant
+</li>
+<li>
+01/2019-12/2021, Bayesian inference for generalised tempered stable Levy processes, Research grant
+</li>
+<li>
+07/2017-06/2021, Statistical modeling of high-resolution spectro-temporal audio data in hearing aids,  Special Research Area (SFB 823) <a 
+href="http://www.statistik.tu-dortmund.de/sfb823.html" > Statistical modelling of nonlinear dynamic
+processes</a> 
+</li>
+<li>
+07/2017-06/2021, Statistics of complex stochastic models  in financial mathematics, Special Research Area (SFB 823) <a 
+href="http://www.statistik.tu-dortmund.de/sfb823.html"> Statistical modelling of nonlinear dynamic
+processes</a> </li>
+</ul>
+
+
+
+</div>
+
+			
+			</div><!-- /.container -->
+			
+			<br>
+			
+			<footer>
+				
+			<ul>
+        			<li><a href="mailto:denis.belomestny@uni-due.de">email</a></li>
+			</ul>
+			</footer>
+		</body>
+	</html>
